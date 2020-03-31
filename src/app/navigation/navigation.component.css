@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none;
+    margin:0;
+    display:flex;
+    border-bottom: 1px solid orangered;
+}
+li{
+    margin-left: 20px;
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2em;
+}
